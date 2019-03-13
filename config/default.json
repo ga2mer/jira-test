@@ -1,0 +1,7 @@
+{
+    "host": "example.com",
+    "auth": {
+        "username": "",
+        "password": ""
+    }
+}
